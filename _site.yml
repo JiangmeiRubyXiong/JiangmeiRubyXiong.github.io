@@ -1,0 +1,9 @@
+name: "Ruby-website"
+output_dir: "."
+navbar:
+  title: "Ruby's Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
