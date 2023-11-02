@@ -1,5 +1,0 @@
----
-title: "Ruby's Website"
----
-
-Hello, World!

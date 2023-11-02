@@ -1,7 +1,0 @@
----
-title: "About Me"
----
-
-- __Name:__ Ruby Xiong 熊江梅
-- __Ocupation:__ Student
-- __Hobbies:__ Spacing out, mystery novels/TV/movie, piano, classical music, sometimes handcrafts, occasionally outdoors, very occasionally social. 
