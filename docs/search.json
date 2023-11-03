@@ -2,9 +2,30 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "attemp",
+    "title": "Jiangmei (Ruby) Xiong",
     "section": "",
-    "text": "I am a Ph.D. student"
+    "text": "I’m currently a Ph.D. candidate at Vanderbilt University Department of Biostatistics. I am primarily working with single-cell imaging data, and in particular with colorectal-cancer-related data. I occasionally dab in public health related social media data as well. I find great motivation in developing statistical method that aids the research in basic sciences, and I also love reading about statistical thinking from different perspectives.\n\n\n\n\nPh.D. in Biostatistics, Vanderbilt University | Nashville, TN\nM.A. in Statistics, Columbia University | New York, NY\nBachelor of Actuarial Studies, Aunstralian National University | Canberra, ACT, Australia\n\n\n\n\n\n\n\n\nGammaGateR: semi-automated marker gating for single-cell multiplexed imaging Xiong, J., Kaur, H., Heiser, C. N., McKinley, E. T., Roland, J. T., Coffey, R. J., Shrubsole, M. J., Wrobel, J., Ma, S., Lau, K. S., & Vandekar, S. https://www.biorxiv.org/content/10.1101/2023.09.20.558645v1\nDigital Surveillance for Monitoring Environmental Health Threats: A Case Study Capturing Public Opinion from Twitter about the 2019 Chennai Water Crisis  Xiong, J., Hswen, Y. and Naslund, J.A. International journal of environmental research and public health 17.14 (2020): 5077. https://www.mdpi.com/1660-4601/17/14/5077\n\n\n\nGammaGateR | Marker-gating tool based off cfGMM. Friendly for large datasets, along with informative interactive diagnostic plots. | 2023\ncfGMM | Closed-form Gamma Mixture Model. Makes fitting Gamma Mixture Model so much faster! (than the traditional MLE version) | 2021"
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Jiangmei (Ruby) Xiong",
+    "section": "",
+    "text": "I’m currently a Ph.D. candidate at Vanderbilt University Department of Biostatistics. I am primarily working with single-cell imaging data, and in particular with colorectal-cancer-related data. I occasionally dab in public health related social media data as well. I find great motivation in developing statistical method that aids the research in basic sciences, and I also love reading about statistical thinking from different perspectives."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Jiangmei (Ruby) Xiong",
+    "section": "",
+    "text": "Ph.D. in Biostatistics, Vanderbilt University | Nashville, TN\nM.A. in Statistics, Columbia University | New York, NY\nBachelor of Actuarial Studies, Aunstralian National University | Canberra, ACT, Australia"
+  },
+  {
+    "objectID": "index.html#recent-projects",
+    "href": "index.html#recent-projects",
+    "title": "Jiangmei (Ruby) Xiong",
+    "section": "",
+    "text": "GammaGateR: semi-automated marker gating for single-cell multiplexed imaging Xiong, J., Kaur, H., Heiser, C. N., McKinley, E. T., Roland, J. T., Coffey, R. J., Shrubsole, M. J., Wrobel, J., Ma, S., Lau, K. S., & Vandekar, S. https://www.biorxiv.org/content/10.1101/2023.09.20.558645v1\nDigital Surveillance for Monitoring Environmental Health Threats: A Case Study Capturing Public Opinion from Twitter about the 2019 Chennai Water Crisis  Xiong, J., Hswen, Y. and Naslund, J.A. International journal of environmental research and public health 17.14 (2020): 5077. https://www.mdpi.com/1660-4601/17/14/5077\n\n\n\nGammaGateR | Marker-gating tool based off cfGMM. Friendly for large datasets, along with informative interactive diagnostic plots. | 2023\ncfGMM | Closed-form Gamma Mixture Model. Makes fitting Gamma Mixture Model so much faster! (than the traditional MLE version) | 2021"
   },
   {
     "objectID": "about.html",
