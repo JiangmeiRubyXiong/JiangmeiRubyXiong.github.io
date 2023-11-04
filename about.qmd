@@ -2,9 +2,4 @@
 title: "About"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
- About me!
+Now that you choose to read this tab, I assume you are interested in knowing more details about my research. [Here](https://jiangmeirubyxiong.github.io/OralsExam/) you can read about the document I wrote for my orals, which gives a brief introduction to the type of data I look at, my first paper and my future directions.
