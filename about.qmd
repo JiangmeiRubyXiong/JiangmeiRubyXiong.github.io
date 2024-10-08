@@ -1,5 +1,17 @@
 ---
-title: "About"
+title: "My Research Projects"
 ---
 
-Now that you choose to read this tab, I assume you are interested in knowing more details about my research. [Here](https://jiangmeirubyxiong.github.io/OralsExam/) you can read about the document I wrote for my orals, which gives a brief introduction to the type of data I look at, my first paper and my future directions.
+# Semi-automated marker gating of Multiplexed Immunofluorescent Images (mIF)
+
+This type of novel medial imaging data is what my PhD dissertation research is mainly about. My [orals exam documentation](https://jiangmeirubyxiong.github.io/OralsExam/) gives a brief overview on what it is.
+
+We published a paper in Bioinformatics describing the R package we developed for marker gating in mIF. This paper is [featured in NCI](https://datascience.cancer.gov/news-events/news/gammagater-helps-decipher-imaging-data).
+
+# Conformal Prediction Application
+
+Conformal prediction with image synthesis
+
+# Public health informatics
+
+Using large language model to uncover information from social media data.

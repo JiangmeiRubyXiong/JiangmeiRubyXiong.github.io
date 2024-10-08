@@ -17,33 +17,43 @@ about:
     href: mailto:jiangmei.xiong@vanderbilt.edu
 comments: false
 ---
-::: {.column-page}
 
+::: column-page
 ## Bio
 
-I’m currently a Ph.D. candidate at [Vanderbilt University](https://www.vanderbilt.edu/) [Department of Biostatistics](https://www.vanderbilt.edu/biostatistics-graduate/). I am primarily working with single-cell imaging data, and in particular with colorectal-cancer-related data. I occasionally dab in public health related social media data as well. I find great motivation in developing statistical method that aids the research in basic sciences, and I also love reading about statistical thinking from different perspectives. 
+Welcome! I am a Ph.D. candidate at [Vanderbilt University](https://www.vanderbilt.edu/) [Department of Biostatistics](https://www.vanderbilt.edu/biostatistics-graduate/). My main interests are in:
+
+- Statistical methods in Medical imaging
+- Health informatics
+- Cancer research
+
+See more work details at the reserach tab!
+
+I am also the President of the Vanderbilt Biostatistics Grad Student Organization (recognized by the ASA) on campus and the  Council for Emerging and New Statisticians [(CENS) with ENAR](https://www.enar.org/meetings/spring2025/profdev/cens.cfm). In my free time, I enjoy murder mysteries. Besides that, I have been singing in the [Vanderbilt Community Chorus](https://www.vanderbilt.edu/community-chorus/) for 3 years, performing various music styles from Broadway to Bach.
+
+I anticipate graduating in Spring 2025 and am actively considering post-docs related to biomedical data science research. Feel free to reach out and connect with me via email!
 
 ## Education
 
- - Ph.D. in Biostatistics, Vanderbilt University | Nashville, TN
- - M.A. in Statistics, Columbia University | New York, NY
- - Bachelor of Actuarial Studies, Aunstralian National University | Canberra, ACT, Australia
+-   Ph.D. in Biostatistics, Vanderbilt University \| Nashville, TN
+-   M.A. in Statistics, Columbia University \| New York, NY
+-   Bachelor of Actuarial Studies, Aunstralian National University \| Canberra, ACT, Australia
 
-<p></p>
+<p>
+
+</p>
 
 ## Recent Projects
 
 #### Selected Publications
 
-**GammaGateR: semi-automated marker gating for single-cell multiplexed imaging** Xiong, J., Kaur, H., Heiser, C. N., McKinley, E. T., Roland, J. T., Coffey, R. J., Shrubsole, M. J., Wrobel, J., Ma, S., Lau, K. S., & Vandekar, S. <https://www.biorxiv.org/content/10.1101/2023.09.20.558645v1>
+**GammaGateR: semi-automated marker gating for single-cell multiplexed imaging** Xiong, J., Kaur, H., Heiser, C. N., McKinley, E. T., Roland, J. T., Coffey, R. J., Shrubsole, M. J., Wrobel, J., Ma, S., Lau, K. S., & Vandekar, S. Bioinformatics, 40.6 (2024): btae356 <https://doi.org/10.1093/bioinformatics/btae356>
+[Press coverage](https://datascience.cancer.gov/news-events/news/gammagater-helps-decipher-imaging-data)
 
-**Digital Surveillance for Monitoring Environmental Health Threats: A Case Study Capturing Public Opinion from Twitter about the 2019 Chennai Water Crisis ** Xiong, J., Hswen, Y. and Naslund, J.A. International journal of environmental research and public health 17.14 (2020): 5077. <https://www.mdpi.com/1660-4601/17/14/5077>
-
+**Digital Surveillance for Monitoring Environmental Health Threats: A Case Study Capturing Public Opinion from Twitter about the 2019 Chennai Water Crisis** Xiong, J., Hswen, Y. and Naslund, J.A. International journal of environmental research and public health 17.14 (2020): 5077. <https://www.mdpi.com/1660-4601/17/14/5077>
 
 #### R Packages
 
-**[GammaGateR](https://github.com/JiangmeiRubyXiong/GammaGateR)** | Marker-gating tool based off cfGMM. Friendly for large datasets, along with informative interactive diagnostic plots. | 2023  
-**[cfGMM](https://github.com/JiangmeiRubyXiong/cfGMM)** | Closed-form Gamma Mixture Model. Makes fitting Gamma Mixture Model so much faster! (than the traditional MLE version) | 2021  
-
-
+[**GammaGateR**](https://github.com/JiangmeiRubyXiong/GammaGateR) \| Marker-gating tool based off cfGMM. Friendly for large datasets, along with informative interactive diagnostic plots. \| 2023\
+[**cfGMM**](https://github.com/JiangmeiRubyXiong/cfGMM) \| Closed-form Gamma Mixture Model. Makes fitting Gamma Mixture Model so much faster! (than the traditional MLE version) \| 2021
 :::
