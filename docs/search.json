@@ -1,17 +1,24 @@
 [
   {
+    "objectID": "CV/index.html",
+    "href": "CV/index.html",
+    "title": "Curriculum vitæ",
+    "section": "",
+    "text": "Download current CV"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Jiangmei (Ruby) Xiong",
     "section": "",
-    "text": "I’m currently a Ph.D. candidate at Vanderbilt University Department of Biostatistics. I am primarily working with single-cell imaging data, and in particular with colorectal-cancer-related data. I occasionally dab in public health related social media data as well. I find great motivation in developing statistical method that aids the research in basic sciences, and I also love reading about statistical thinking from different perspectives.\n\n\n\n\nPh.D. in Biostatistics, Vanderbilt University | Nashville, TN\nM.A. in Statistics, Columbia University | New York, NY\nBachelor of Actuarial Studies, Aunstralian National University | Canberra, ACT, Australia\n\n\n\n\n\n\n\n\nGammaGateR: semi-automated marker gating for single-cell multiplexed imaging Xiong, J., Kaur, H., Heiser, C. N., McKinley, E. T., Roland, J. T., Coffey, R. J., Shrubsole, M. J., Wrobel, J., Ma, S., Lau, K. S., & Vandekar, S. https://www.biorxiv.org/content/10.1101/2023.09.20.558645v1\nDigital Surveillance for Monitoring Environmental Health Threats: A Case Study Capturing Public Opinion from Twitter about the 2019 Chennai Water Crisis  Xiong, J., Hswen, Y. and Naslund, J.A. International journal of environmental research and public health 17.14 (2020): 5077. https://www.mdpi.com/1660-4601/17/14/5077\n\n\n\nGammaGateR | Marker-gating tool based off cfGMM. Friendly for large datasets, along with informative interactive diagnostic plots. | 2023\ncfGMM | Closed-form Gamma Mixture Model. Makes fitting Gamma Mixture Model so much faster! (than the traditional MLE version) | 2021"
+    "text": "Welcome! I am a Ph.D. candidate at Vanderbilt University Department of Biostatistics. My main interests are in:\n\nStatistical methods in Medical imaging\nHealth informatics\nCancer research\n\nSee more work details at the reserach tab!\nI am also the President of the Vanderbilt Biostatistics Grad Student Organization (recognized by the ASA) on campus and the Council for Emerging and New Statisticians (CENS) with ENAR. In my free time, I enjoy murder mysteries. Besides that, I have been singing in the Vanderbilt Community Chorus for 3 years, performing various music styles from Broadway to Bach.\nI anticipate graduating in Spring 2025 and am actively considering post-docs related to biomedical data science research. Feel free to reach out and connect with me via email!\n\n\n\n\nPh.D. in Biostatistics, Vanderbilt University | Nashville, TN\nM.A. in Statistics, Columbia University | New York, NY\nBachelor of Actuarial Studies, Aunstralian National University | Canberra, ACT, Australia\n\n\n\n\n\n\n\n\nGammaGateR: semi-automated marker gating for single-cell multiplexed imaging Xiong, J., Kaur, H., Heiser, C. N., McKinley, E. T., Roland, J. T., Coffey, R. J., Shrubsole, M. J., Wrobel, J., Ma, S., Lau, K. S., & Vandekar, S. Bioinformatics, 40.6 (2024): btae356 https://doi.org/10.1093/bioinformatics/btae356 Press coverage\nDigital Surveillance for Monitoring Environmental Health Threats: A Case Study Capturing Public Opinion from Twitter about the 2019 Chennai Water Crisis Xiong, J., Hswen, Y. and Naslund, J.A. International journal of environmental research and public health 17.14 (2020): 5077. https://www.mdpi.com/1660-4601/17/14/5077\n\n\n\nGammaGateR | Marker-gating tool based off cfGMM. Friendly for large datasets, along with informative interactive diagnostic plots. | 2023\ncfGMM | Closed-form Gamma Mixture Model. Makes fitting Gamma Mixture Model so much faster! (than the traditional MLE version) | 2021"
   },
   {
     "objectID": "index.html#bio",
     "href": "index.html#bio",
     "title": "Jiangmei (Ruby) Xiong",
     "section": "",
-    "text": "I’m currently a Ph.D. candidate at Vanderbilt University Department of Biostatistics. I am primarily working with single-cell imaging data, and in particular with colorectal-cancer-related data. I occasionally dab in public health related social media data as well. I find great motivation in developing statistical method that aids the research in basic sciences, and I also love reading about statistical thinking from different perspectives."
+    "text": "Welcome! I am a Ph.D. candidate at Vanderbilt University Department of Biostatistics. My main interests are in:\n\nStatistical methods in Medical imaging\nHealth informatics\nCancer research\n\nSee more work details at the reserach tab!\nI am also the President of the Vanderbilt Biostatistics Grad Student Organization (recognized by the ASA) on campus and the Council for Emerging and New Statisticians (CENS) with ENAR. In my free time, I enjoy murder mysteries. Besides that, I have been singing in the Vanderbilt Community Chorus for 3 years, performing various music styles from Broadway to Bach.\nI anticipate graduating in Spring 2025 and am actively considering post-docs related to biomedical data science research. Feel free to reach out and connect with me via email!"
   },
   {
     "objectID": "index.html#education",
@@ -25,13 +32,13 @@
     "href": "index.html#recent-projects",
     "title": "Jiangmei (Ruby) Xiong",
     "section": "",
-    "text": "GammaGateR: semi-automated marker gating for single-cell multiplexed imaging Xiong, J., Kaur, H., Heiser, C. N., McKinley, E. T., Roland, J. T., Coffey, R. J., Shrubsole, M. J., Wrobel, J., Ma, S., Lau, K. S., & Vandekar, S. https://www.biorxiv.org/content/10.1101/2023.09.20.558645v1\nDigital Surveillance for Monitoring Environmental Health Threats: A Case Study Capturing Public Opinion from Twitter about the 2019 Chennai Water Crisis  Xiong, J., Hswen, Y. and Naslund, J.A. International journal of environmental research and public health 17.14 (2020): 5077. https://www.mdpi.com/1660-4601/17/14/5077\n\n\n\nGammaGateR | Marker-gating tool based off cfGMM. Friendly for large datasets, along with informative interactive diagnostic plots. | 2023\ncfGMM | Closed-form Gamma Mixture Model. Makes fitting Gamma Mixture Model so much faster! (than the traditional MLE version) | 2021"
+    "text": "GammaGateR: semi-automated marker gating for single-cell multiplexed imaging Xiong, J., Kaur, H., Heiser, C. N., McKinley, E. T., Roland, J. T., Coffey, R. J., Shrubsole, M. J., Wrobel, J., Ma, S., Lau, K. S., & Vandekar, S. Bioinformatics, 40.6 (2024): btae356 https://doi.org/10.1093/bioinformatics/btae356 Press coverage\nDigital Surveillance for Monitoring Environmental Health Threats: A Case Study Capturing Public Opinion from Twitter about the 2019 Chennai Water Crisis Xiong, J., Hswen, Y. and Naslund, J.A. International journal of environmental research and public health 17.14 (2020): 5077. https://www.mdpi.com/1660-4601/17/14/5077\n\n\n\nGammaGateR | Marker-gating tool based off cfGMM. Friendly for large datasets, along with informative interactive diagnostic plots. | 2023\ncfGMM | Closed-form Gamma Mixture Model. Makes fitting Gamma Mixture Model so much faster! (than the traditional MLE version) | 2021"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "My Research Projects",
     "section": "",
-    "text": "Now that you choose to read this tab, I assume you are interested in knowing more details about my research. Here you can read about the document I wrote for my orals, which gives a brief introduction to the type of data I look at, my first paper and my future directions."
+    "text": "Semi-automated marker gating of Multiplexed Immunofluorescent Images (mIF)\nThis type of novel medial imaging data is what my PhD dissertation research is mainly about. My orals exam documentation gives a brief overview on what it is.\nWe published a paper in Bioinformatics describing the R package we developed for marker gating in mIF. This paper is featured in NCI.\n\n\nConformal Prediction Application\nConformal prediction with image synthesis\n\n\nPublic health informatics\nUsing large language model to uncover information from social media data."
   }
 ]
