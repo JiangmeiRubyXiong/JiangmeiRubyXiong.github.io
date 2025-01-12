@@ -117,8 +117,8 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#semi-automated-marker-gating-of-multiplexed-immunofluorescent-images-mif" id="toc-semi-automated-marker-gating-of-multiplexed-immunofluorescent-images-mif" class="nav-link active" data-scroll-target="#semi-automated-marker-gating-of-multiplexed-immunofluorescent-images-mif">Semi-automated marker gating of Multiplexed Immunofluorescent Images (mIF)</a></li>
-  <li><a href="#conformal-prediction-application" id="toc-conformal-prediction-application" class="nav-link" data-scroll-target="#conformal-prediction-application">Conformal Prediction Application</a></li>
   <li><a href="#public-health-informatics" id="toc-public-health-informatics" class="nav-link" data-scroll-target="#public-health-informatics">Public health informatics</a></li>
+  <li><a href="#misc" id="toc-misc" class="nav-link" data-scroll-target="#misc">Misc</a></li>
   </ul>
 </nav>
     </div>
@@ -144,18 +144,33 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="semi-automated-marker-gating-of-multiplexed-immunofluorescent-images-mif" class="level1">
-<h1>Semi-automated marker gating of Multiplexed Immunofluorescent Images (mIF)</h1>
-<p>This type of novel medial imaging data is what my PhD dissertation research is mainly about. My <a href="https://jiangmeirubyxiong.github.io/OralsExam/">orals exam documentation</a> gives a brief overview on what it is.</p>
-<p>We published a paper in Bioinformatics describing the R package we developed for marker gating in mIF. This paper is <a href="https://datascience.cancer.gov/news-events/news/gammagater-helps-decipher-imaging-data">featured in NCI</a>.</p>
+<p>These are 3-minute pitches of the research projects that I completed 80%:</p>
+<section id="semi-automated-marker-gating-of-multiplexed-immunofluorescent-images-mif" class="level2">
+<h2 class="anchored" data-anchor-id="semi-automated-marker-gating-of-multiplexed-immunofluorescent-images-mif">Semi-automated marker gating of Multiplexed Immunofluorescent Images (mIF)</h2>
+<div class="quarto-figure quarto-figure-right">
+<figure class="figure">
+<p><img src="docs/logoGammaGateR.png" class="img-fluid quarto-figure quarto-figure-right figure-img" style="float: right;" alt="Hex logo that says &quot;GammaGateR&quot;" width="250"></p>
+</figure>
+</div>
+<p>Multiplexed Immunofluorescent (mIF) images is a new and special type of image modality. You can think of this as a stack of images, where each images captures different types of marker expression (proteins) of a same tissue. mIF can capture more than 60 different channels and this provides great insight in cell interactions and hereby cancer development pathways. If you happen to read recent ADC (Antibody-drug Conjugate) clinical trial papers, you might find some of them being used as qualitative description of how badly the tissue looks (or how good they are after the treatment).</p>
+<p>As a new type of technology, it is still pretty expensive to produce them; the more marker channel with one tissue, the more expensive it is. Therefore, to fully exploit their scientific and monetary values, there has been plenty of studies exploiting the quantitative side of mIF and ended up with great findings.</p>
+<p>Of course, with every new data modality there comes “break-in” phases. One of the challenges with processing mIF is marker gating. That is, to identify on each image which marker is expressed for each cell. This could be as easy as a supervised ML classification problem, however with the small sample size and big between sample variances, the result is not often quite ideal.</p>
+<p>Here we proposed using Gamma distribution to build an unsupervised model. We implemented a few changes so that this statistical model is feasible for image data. We implemented the algorithm into an R pacakge, and we added diagnostic figures (some interactive, thanks plotly!) to help quality control the output.</p>
+<p><img src="docs/GGRdiag.gif" class="img-fluid"></p>
+<p>We published <a href="https://doi.org/10.1093/bioinformatics/btae356">a paper in Bioinformatics</a> describing the R package we developed for marker gating in mIF. This paper is <a href="https://datascience.cancer.gov/news-events/news/gammagater-helps-decipher-imaging-data">featured in NCI</a>.</p>
 </section>
-<section id="conformal-prediction-application" class="level1">
-<h1>Conformal Prediction Application</h1>
-<p>Conformal prediction with image synthesis</p>
-</section>
-<section id="public-health-informatics" class="level1">
-<h1>Public health informatics</h1>
+<section id="public-health-informatics" class="level2">
+<h2 class="anchored" data-anchor-id="public-health-informatics">Public health informatics</h2>
 <p>Using large language model to uncover information from social media data.</p>
+<div class="quarto-figure quarto-figure-right">
+<figure class="figure">
+<p><img src="docs/logoGammaGateR.png" class="img-fluid quarto-figure quarto-figure-right figure-img" style="float: right;" alt="Hex logo that says &quot;GammaGateR&quot;" width="250"></p>
+</figure>
+</div>
+</section>
+<section id="misc" class="level2">
+<h2 class="anchored" data-anchor-id="misc">Misc</h2>
+<p>My <a href="https://jiangmeirubyxiong.github.io/OralsExam/">orals exam documentation</a> is a slightly outdated description of what I aspire to work towards in my current program.</p>
 
 
 </section>

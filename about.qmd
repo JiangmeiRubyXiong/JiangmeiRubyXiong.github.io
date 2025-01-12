@@ -2,16 +2,31 @@
 title: "My Research Projects"
 ---
 
-# Semi-automated marker gating of Multiplexed Immunofluorescent Images (mIF)
+These are 3-minute pitches of the research projects that I completed 80%:
 
-This type of novel medial imaging data is what my PhD dissertation research is mainly about. My [orals exam documentation](https://jiangmeirubyxiong.github.io/OralsExam/) gives a brief overview on what it is.
+## Semi-automated marker gating of Multiplexed Immunofluorescent Images (mIF)
 
-We published a paper in Bioinformatics describing the R package we developed for marker gating in mIF. This paper is [featured in NCI](https://datascience.cancer.gov/news-events/news/gammagater-helps-decipher-imaging-data).
+![](docs/logoGammaGateR.png){style="float: right;" fig-alt="Hex logo that says \"GammaGateR\"" fig-align="right" width="250"}
 
-# Conformal Prediction Application
+Multiplexed Immunofluorescent (mIF) images is a new and special type of image modality. You can think of this as a stack of images, where each images captures different types of marker expression (proteins) of a same tissue. mIF can capture more than 60 different channels and this provides great insight in cell interactions and hereby cancer development pathways. If you happen to read recent ADC (Antibody-drug Conjugate) clinical trial papers, you might find some of them being used as qualitative description of how badly the tissue looks (or how good they are after the treatment).
 
-Conformal prediction with image synthesis
+As a new type of technology, it is still pretty expensive to produce them; the more marker channel with one tissue, the more expensive it is. Therefore, to fully exploit their scientific and monetary values, there has been plenty of studies exploiting the quantitative side of mIF and ended up with great findings. 
 
-# Public health informatics
+Of course, with every new data modality there comes "break-in" phases. One of the challenges with processing mIF is marker gating. That is, to identify on each image which marker is expressed for each cell. This could be as easy as a supervised ML classification problem, however with the small sample size and big between sample variances, the result is not often quite ideal.
+
+Here we proposed using Gamma distribution to build an unsupervised model. We implemented a few changes so that this statistical model is feasible for image data. We implemented the algorithm into an R pacakge, and we added diagnostic figures (some interactive, thanks plotly!) to help quality control the output.
+
+![](docs/GGRdiag.gif)
+
+We published [a paper in Bioinformatics](https://doi.org/10.1093/bioinformatics/btae356) describing the R package we developed for marker gating in mIF. This paper is [featured in NCI](https://datascience.cancer.gov/news-events/news/gammagater-helps-decipher-imaging-data).
+
+
+## Public health informatics
 
 Using large language model to uncover information from social media data.
+
+![](docs/logoGammaGateR.png){style="float: right;" fig-alt="Hex logo that says \"GammaGateR\"" fig-align="right" width="250"}
+
+## Misc
+
+My [orals exam documentation](https://jiangmeirubyxiong.github.io/OralsExam/) is a slightly outdated description of what I aspire to work towards in my current program.

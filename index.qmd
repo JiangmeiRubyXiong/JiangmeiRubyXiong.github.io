@@ -21,15 +21,15 @@ comments: false
 ::: column-page
 ## Bio
 
-Welcome! I am a Ph.D. candidate at [Vanderbilt University](https://www.vanderbilt.edu/) [Department of Biostatistics](https://www.vanderbilt.edu/biostatistics-graduate/). My main interests are in:
+Welcome! I am a 5th-year Ph.D. candidate at [Vanderbilt University](https://www.vanderbilt.edu/) [Department of Biostatistics](https://www.vanderbilt.edu/biostatistics-graduate/). My main research interests are in:
 
-- Statistical methods in Medical imaging
+- Statistical methods in medical imaging
 - Health informatics
 - Cancer research
 
-See more work details at the reserach tab!
+See more work details at the research tab!
 
-I am also the President of the Vanderbilt Biostatistics Grad Student Organization (recognized by the ASA) on campus and the  Council for Emerging and New Statisticians [(CENS) with ENAR](https://www.enar.org/meetings/spring2025/profdev/cens.cfm). In my free time, I enjoy murder mysteries. Besides that, I have been singing in the [Vanderbilt Community Chorus](https://www.vanderbilt.edu/community-chorus/) for 3 years, performing various music styles from Broadway to Bach.
+I am also the President of the Vanderbilt Biostatistics Grad Student Organization (recognized by the ASA) on campus and the Council for Emerging and New Statisticians [(CENS) with ENAR](https://www.enar.org/meetings/spring2025/profdev/cens.cfm). Besides that, I have been singing in the [Vanderbilt Community Chorus](https://www.vanderbilt.edu/community-chorus/) for 3 years, performing various music styles from Broadway to Bach.
 
 I anticipate graduating in Spring 2025 and am actively considering post-docs related to biomedical data science research. Feel free to reach out and connect with me via email!
 
