@@ -2,30 +2,34 @@
 title: "My Research Projects"
 ---
 
-These are 3-minute pitches of the research projects that I completed 80%:
+These are 3-minute pitches of the research projects that I completed 80%. For a complete list of publications, here is my [google scholar page](https://scholar.google.com/citations?user=z2nLKgQAAAAJ&hl=en&oi=ao).
 
 ## Semi-automated marker gating of Multiplexed Immunofluorescent Images (mIF)
 
-![](docs/logoGammaGateR.png){style="float: right;" fig-alt="Hex logo that says \"GammaGateR\"" fig-align="right" width="250"}
+![](docs/figure4.jpg){style="float: right;" fig-alt="Hex logo that says \"GammaGateR\"" fig-align="right" width="500"}
 
 Multiplexed Immunofluorescent (mIF) images is a new and special type of image modality. You can think of this as a stack of images, where each images captures different types of marker expression (proteins) of a same tissue. mIF can capture more than 60 different channels and this provides great insight in cell interactions and hereby cancer development pathways. If you happen to read recent ADC (Antibody-drug Conjugate) clinical trial papers, you might find some of them being used as qualitative description of how badly the tissue looks (or how good they are after the treatment).
 
-As a new type of technology, it is still pretty expensive to produce them; the more marker channel with one tissue, the more expensive it is. Therefore, to fully exploit their scientific and monetary values, there has been plenty of studies exploiting the quantitative side of mIF and ended up with great findings. 
+As a new type of technology, it is still pretty expensive to produce them; the more marker channel with one tissue, the more expensive it is. Therefore, to fully exploit their scientific and monetary values, there has been plenty of [studies](https://kenlaulab.org/) exploiting the quantitative side of mIF and ended up with great findings.  
 
 Of course, with every new data modality there comes "break-in" phases. One of the challenges with processing mIF is marker gating. That is, to identify on each image which marker is expressed for each cell. This could be as easy as a supervised ML classification problem, however with the small sample size and big between sample variances, the result is not often quite ideal.
 
-Here we proposed using Gamma distribution to build an unsupervised model. We implemented a few changes so that this statistical model is feasible for image data. We implemented the algorithm into an R pacakge, and we added diagnostic figures (some interactive, thanks plotly!) to help quality control the output.
-
-![](docs/GGRdiag.gif)
+![](docs/logoGammaGateR.png){style="float: right;" fig-alt="Hex logo that says \"GammaGateR\"" fig-align="right" width="150"}
+Here we proposed using Gamma distribution to build an unsupervised model. We implemented a few changes so that this statistical model is feasible for image data. We implemented the algorithm into an R pacakge ([GammaGateR](https://github.com/JiangmeiRubyXiong/GammaGateR)), and we added diagnostic figures (some interactive, thanks plotly!) to help quality control the output. You can check out the diagnostic plot in the [full vignette](https://statimagcoll.github.io/GammaGateR#diagnostic-plots).
 
 We published [a paper in Bioinformatics](https://doi.org/10.1093/bioinformatics/btae356) describing the R package we developed for marker gating in mIF. This paper is [featured in NCI](https://datascience.cancer.gov/news-events/news/gammagater-helps-decipher-imaging-data).
 
 
 ## Public health informatics
 
-Using large language model to uncover information from social media data.
+This is what I worked on in my masters, and I kept working on similar projects in my spare time now as well: using large language model to uncover information from social media data. I learned this public health paradigm from excellent [Dr. Yulin Hswen](https://hswen.ucsf.edu/). Whenever a major public health event with time sensitivity happens, such as natural disaster, social media is a great resource to learn about the public opinions on potential damages, and what people want to address the most. 
 
-![](docs/logoGammaGateR.png){style="float: right;" fig-alt="Hex logo that says \"GammaGateR\"" fig-align="right" width="250"}
+You might recall from your personal experience with Twitter (now X): when you go to the search bar and click on a hashtag, you might be able see several thousands of Tweets. It means that it's almost impossible to manually process all of them and summarize the important things timely. The great thing is, you can batch process them with topic models such as LDA and BERTopic, which can return "topics" of the texts you input. You can also use VADER which is a word-to-emotion dictionary to tell if the text resembles positive or negative feelings.
+
+![](docs/rain.png){style="float: right;" fig-alt="Hex logo that says \"rainfall\"" fig-align="right" width="400"}
+Here comes the scientific question: how do you tell the emotion of each topic, and how much are each topic being discussed? In this paper, I made a little tweak on what we have in the toolbox and calculated similarity of each tweet to find out about tweet-topic assignment and topic discussion frequency. We also observed correlation between rainfall and tweet frequency (for a drought event).
+
+This paper is published in [Int. J. Environ. Res. Public Health](https://doi.org/10.3390/ijerph17145077). I also helped acquiring and processing similar data on a dementia caregiver paper with Dr.Hswen, published in [Artificial Intelligence in Health](https://doi.org/10.36922/aih.3075).
 
 ## Misc
 
