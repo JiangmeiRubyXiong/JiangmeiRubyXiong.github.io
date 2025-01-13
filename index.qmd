@@ -21,7 +21,7 @@ comments: false
 ::: column-page
 ## Bio
 
-Welcome! I am a 5th-year Ph.D. candidate at [Vanderbilt University](https://www.vanderbilt.edu/) [Department of Biostatistics](https://www.vanderbilt.edu/biostatistics-graduate/). My main research interests are in:
+I am a 5th-year Ph.D. candidate at [Vanderbilt University](https://www.vanderbilt.edu/) [Department of Biostatistics](https://www.vanderbilt.edu/biostatistics-graduate/). My main research interests are in:
 
 - Statistical methods in medical imaging
 - Health informatics
