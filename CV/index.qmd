@@ -1,7 +1,7 @@
 ---
 title: Curriculum vitæ
 description: "Jiangmei (Ruby) Xiong's CV"
-date: 2025-05-23
+date: 2025-11-16
 published-title: CV last updated
 engine: knitr
 freeze: false
